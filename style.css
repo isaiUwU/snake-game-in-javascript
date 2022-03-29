@@ -1,0 +1,32 @@
+body{
+    background-color: orchid;
+}
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid white;
+}
+#scoreText{
+    color: white;
+    font-family: "Arial", cursive;
+    font-size: 30px;
+}
+#resetBtn{
+    font-family: "Arial", cursive;
+    color: white;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 3px solid white;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color: lightgreen;
+}
+#h1{
+    color: lightgreen;
+    font-family: "press Start 2P", sans-serif;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 17px;
+}
